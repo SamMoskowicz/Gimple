@@ -3,7 +3,7 @@ Gimple is an AI chatbot, culturally tailored to provide voice and text interacti
 
 # Features
 - Voice Interaction: Call and chat with an AI in a real-time conversation.
-- Text Interaction: Text the chatbot and receive responses instantly.
+- Text Interaction: Text the chatbot and receive responses.
 - Culturally Tailored: Ensures responses are in alignment with the cultural and religious views of the Hasidic community.
 - Custom Voice Responses: A variant of Gimple responds in a custom voice generated through AssembleAI.
 - Data Recording: All calls, queries, and responses are stored in a MySQL database.
